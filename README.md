@@ -172,9 +172,4 @@ df_master.head(10)
 </table>
 
 
-```python
-len(df_master)
-```
-```
-3516
-```
+##### 2018 FinanceData.KR
