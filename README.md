@@ -22,6 +22,9 @@ KRX(Korea Exchange) stock listing data set (As of September 30, 2018)
 * Industy_code: 전자공시(DART)의 산업분류 코드
 * Industy_name: 전자공시(DART)의 산업 이름
 
+산업분류 코드(KSIC)에 대한 보다 상세한 내용은 https://github.com/FinanceData/KSIC 를 참고.
+
+
 #### 참고사항
 * 상장폐지 종목(Listing=False)의 경우 Industry, Sector 정보가 없다
 * 전자공시(DART)에 해당 회사의 정보가 없는 경우 Industy_code, Industy_name 정보가 없다
